@@ -45,6 +45,3 @@
 
 # Eye Blink Update :
 ### After this update, attendence is recorded only after the person blinks a certain amount of time.
-
-## Result
-[![Result](/README_media/https://github.com/Anusha-r-k/Attendance-monitor/blob/master/README_media/WhatsApp%20Image%202023-04-17%20at%2013.34.15%20(1).jpeg "Result")](https://www.youtube.com/watch?v=uW48UC3WEos)
